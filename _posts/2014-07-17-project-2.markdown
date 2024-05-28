@@ -4,8 +4,8 @@ modal-id: 2
 date: 2014-07-17
 img: cake.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: July 2023
+client: Babylon Chain
+category: Validator
+description: We have participated as validators throughout its 2 testnets, staying active with an uptime of 99% among the 80 validators with the most voting power. We are waiting to start the validator on the mainnet.
 ---
