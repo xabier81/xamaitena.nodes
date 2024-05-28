@@ -7,5 +7,5 @@ alt: image-alt
 project-date: November 2023
 client: Avail
 category: Validator (light-client)
-description: We have participated as validators throughout its testnet, staying active with an uptime of 99%. We are waiting to start the validator on the mainnet.
+description: We have participated as validators throughout its testnet, class-nodes challenge, staying active with an uptime of 99%. We are waiting to start the validator on the mainnet.
 ---
