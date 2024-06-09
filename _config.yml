@@ -36,7 +36,7 @@ color:
 # Footer settings
 footer:
   copyright: 
-  location: Location
+  location: 
   social: Around the Web
   credits: Credits
 
@@ -59,7 +59,7 @@ address:
   - line: 
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+#credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
